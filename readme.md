@@ -1,0 +1,2 @@
+- CovTANet
+	- Published Paper link: https://ieeexplore.ieee.org/document/9311781
